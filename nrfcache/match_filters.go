@@ -16,9 +16,9 @@ import (
 	"encoding/json"
 	"regexp"
 
-	"github.com/omec-project/openapi/Nnrf_NFDiscovery"
-	"github.com/omec-project/openapi/logger"
-	"github.com/omec-project/openapi/models"
+	"github.com/anaswarac-dac/openapi/Nnrf_NFDiscovery"
+	"github.com/anaswarac-dac/openapi/logger"
+	"github.com/anaswarac-dac/openapi/models"
 )
 
 type MatchFilter func(profile *models.NfProfile, opts *Nnrf_NFDiscovery.SearchNFInstancesParamOpts) (bool, error)

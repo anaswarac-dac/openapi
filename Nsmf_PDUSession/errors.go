@@ -7,7 +7,7 @@ package Nsmf_PDUSession
 import (
 	"net/http"
 
-	"github.com/omec-project/openapi/models"
+	"github.com/anaswarac-dac/openapi/models"
 )
 
 var (

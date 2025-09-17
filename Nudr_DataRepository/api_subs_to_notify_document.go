@@ -15,7 +15,7 @@ package Nudr_DataRepository
 
 import (
 
-	// "github.com/omec-project/openapi/models"
+	// "github.com/anaswarac-dac/openapi/models"
 	"context"
 	"fmt"
 	"io/ioutil"
@@ -23,7 +23,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/omec-project/openapi"
+	"github.com/anaswarac-dac/openapi"
 )
 
 // Linger please

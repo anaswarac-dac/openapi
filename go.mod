@@ -1,4 +1,4 @@
-module github.com/omec-project/openapi
+module github.com/anaswarac-dac/openapi
 
 go 1.24.0
 

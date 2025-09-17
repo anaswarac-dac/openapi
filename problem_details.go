@@ -7,7 +7,7 @@ package openapi
 import (
 	"net/http"
 
-	"github.com/omec-project/openapi/models"
+	"github.com/anaswarac-dac/openapi/models"
 )
 
 func ProblemDetailsSystemFailure(detail string) *models.ProblemDetails {

@@ -23,8 +23,8 @@ import (
 
 	"github.com/antihax/optional"
 
-	"github.com/omec-project/openapi"
-	"github.com/omec-project/openapi/models"
+	"github.com/anaswarac-dac/openapi"
+	"github.com/anaswarac-dac/openapi/models"
 )
 
 // Linger please

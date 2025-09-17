@@ -34,7 +34,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/omec-project/openapi/logger"
+	"github.com/anaswarac-dac/openapi/logger"
 	"golang.org/x/net/http2"
 	"golang.org/x/oauth2"
 	"gopkg.in/h2non/gock.v1"

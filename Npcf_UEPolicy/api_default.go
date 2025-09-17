@@ -21,7 +21,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/omec-project/openapi/models"
+	"github.com/anaswarac-dac/openapi/models"
 )
 
 // Linger please
